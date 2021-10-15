@@ -100,6 +100,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ChenRiliang/Memos
+  repo: https://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@github.com/ChenRiliang/ChenRiliang.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
