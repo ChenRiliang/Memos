@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "大刀的开发杂记"
-subtitle: '一个代码搬运工'
-description: '在工作或者学习期间的一些记录'
-keywords: 'FE 前端 服务端 软件开发 计算机 网络'
+title: "开发笔记"
+subtitle: '记录一些开发笔记'
+description: '在工作或者学习期间的一些笔记'
+keywords: 'FE 前端 Node 软件开发 计算机 网络 H5'
 author: 陈日亮
 language: zh-CN
 timezone: ''
