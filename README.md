@@ -1,9 +1,13 @@
-# 笔记仓库
+# 个人笔记博客部署 Hexo 部署仓库
 
-# 起飞姿势
-```bash
-npm run d
+## 启动
+```shell
+npm run server
 ```
 
-# 部署对应仓库
-`https://github.com/ChenRiliang/ChenRiliang.github.io`
+## 部署
+
+```shell
+npm run clean && npm run deploy
+```
+
